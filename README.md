@@ -23,4 +23,4 @@ This is a website developed using Html and css which has specific styles. For mo
 
 email:gokulraj482@gmail.com
 
-GitHub Link:
+GitHub Link:https://github.com/Gokulrajae/TinDog.git
